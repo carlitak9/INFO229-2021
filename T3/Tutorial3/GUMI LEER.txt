@@ -1,0 +1,7 @@
+si haces " pip install -r requirements.txt " o " python -m pip install -r requeriments.txt "
+se instalaran los imports <3
+Igual un import solo funciona desde python 3.9 para abajo :3
+
+PD : el primero deberia servir en ubuntu uwu
+
+TKM <3
