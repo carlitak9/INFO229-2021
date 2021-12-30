@@ -1,3 +1,0 @@
-pika
-wikipedia
-git+https://github.com/Commonists/pageview-api.git
